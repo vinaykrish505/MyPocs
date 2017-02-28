@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyPocs</string>
+    <string name="expand">Expand/Collapse ActionBar</string>
+    <string name="paralax">ActionBar Parallax Animations</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
